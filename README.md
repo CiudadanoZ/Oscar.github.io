@@ -1,2 +1,2 @@
 # Oscar.github.io
-Curriculum  personal.
+Aqui podras encontrar mi Curriculum Personal hecho con HTM y CSS.
